@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "discord.js": "^14.24.2"
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3"
   },
   "name": "bot-wishker",
   "version": "1.0.0",
   "description": "Moderation bot for discord",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
